@@ -16,6 +16,6 @@ def encode(tekst):
         lista[i] = chr(znak)
     return ''.join(lista)
 
-
+print("test")
 print(testowy_tekst)
 print(encode(testowy_tekst))
